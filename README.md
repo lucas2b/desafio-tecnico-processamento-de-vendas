@@ -1,4 +1,4 @@
-# desafio-tecnico-processamento-de-vendas 
+#Desafio Técnico Processamento de Vendas
 
 Desenvolvimento de um desafio técnico que processa arquivos do diretório de entrada e apresenta
 os resultados em arquivos no diretório de saída.
