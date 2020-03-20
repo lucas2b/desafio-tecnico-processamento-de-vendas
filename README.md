@@ -44,7 +44,7 @@ Exemplo 2 de Arquivo de entrada: (dados_criados.in)
 
 Saída Esperada: (dados_criados.out)
 
-"Quantidade de clientes no arquivo de entrada:4
-Quantidade de vendedores no arquivo de entrada:5
-ID da venda mais cara:07
+"Quantidade de clientes no arquivo de entrada:4<br/>
+Quantidade de vendedores no arquivo de entrada:5<br/>
+ID da venda mais cara:07<br/>
 O pior vendedor: Julia"
